@@ -1,0 +1,1 @@
+# Predicting-the-insurance-claim-of-an-individual-using-Supervised-Linear-Regression
